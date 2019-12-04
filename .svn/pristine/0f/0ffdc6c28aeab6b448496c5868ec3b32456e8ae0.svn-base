@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++1403",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++8218" : {
+
+    },
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++1403" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++8218" : 9223372036854775807,
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++1403" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45CDABCD-74C9-4603-98BB-C93B1EA89EE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++8218" : "V1.1.0\/",
+    "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++1403" : "V1.1.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZSSmallLandlord",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZSSmallLandlord\/ZSSmallLandlord.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/119.23.66.141:8443\/svn\/tech",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++1403"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/119.23.66.141:8443\/svn\/tech",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fab3ed89-bbfa-7d4b-a8ed-872023596f2c++8218"
+    }
+  ]
+}
